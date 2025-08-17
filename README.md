@@ -7,9 +7,9 @@ A complete IoT solution for textile factories to:
   Provide real-time visual alerts (LEDs + display)
   Centralize monitoring through MQTT server
 Key Features
-  10-minute bundle timer** with overdue alerts
-  Employee authentication** via RFID cards
-  Real-time MQTT communication**
+  10-minute bundle timer with overdue alerts
+  Employee authentication via RFID cards
+  Real-time MQTT communication
   Dashboard monitoring** (Python GUI)
  Visual feedback (TFT display + LED indicators)
 
